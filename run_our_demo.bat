@@ -1,0 +1,1 @@
+robot_gui.exe main.exe -m maps\1.txt
